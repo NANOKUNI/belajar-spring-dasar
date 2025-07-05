@@ -33,17 +33,17 @@
 			<scope>test</scope>
 		</dependency>
 	
-   <dependency>
-     <groupId>org.osgi</groupId>
-     <artifactId>org.osgi.compendium</artifactId>
-     <version>5.0.0</version>
-   </dependency>
-		<dependency>
-			<groupId>gemsscode</groupId>
-			<artifactId>belajar-spring-dasar</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-			<scope>test</scope>
-		</dependency>
+	   <dependency>
+		 <groupId>org.osgi</groupId>
+		 <artifactId>org.osgi.compendium</artifactId>
+		 <version>5.0.0</version>
+	   </dependency>
+<!--		<dependency>-->
+<!--			<groupId>gemsscode</groupId>-->
+<!--			<artifactId>belajar-spring-dasar</artifactId>-->
+<!--			<version>0.0.1-SNAPSHOT</version>-->
+<!--			<scope>test</scope>-->
+<!--		</dependency>-->
 	</dependencies>
 
 	<build>
